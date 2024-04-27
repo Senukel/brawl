@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:navy;
+    color:white;
+    padding:15px;
+    border-radius: 10px;
+}
+h1 {
+    color:mediumblue;
+    text-align: center;
+}
+footer p{
+    background-color: lime;
+    
+}
+footer {
+    margin:45px
+}
+nav {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration:none;
+    color:white;
+    
+    border-radius: 10px;
+    
+}
+nav a {
+    color:white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius: 10px;
+    background-color:navy;
+    padding:3px;
+}
+.a  {
+    background-color:palegreen;
+}
